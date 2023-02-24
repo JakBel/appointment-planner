@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/appointment-planner/static/js/main.48a8913d.js",
+    "index.html": "/appointment-planner/index.html",
+    "main.48a8913d.js.map": "/appointment-planner/static/js/main.48a8913d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.48a8913d.js"
+  ]
+}
